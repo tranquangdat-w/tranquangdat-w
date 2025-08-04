@@ -1,16 +1,23 @@
-## Hi there 👋
+# TranQuangDat
 
-<!--
-**tranquangdat-w/tranquangdat-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a guy trying to push my brain to the limit, write fast code, bend tools to my will, and craft beautiful software that runs like magic
 
-Here are some ideas to get you started:
+Fun Facts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I write most of my code live, sleep-deprived, and heavily caffeinated
+- Neovim > any IDE, fight me  
+- Arch Linux user. Yes, I use i3. Yes, I rice it. No, I’m not switching.  
+- Most of my repos are just experiments… until they’re not.  
+
+## Currently Building
+
+- A faster way to write code (tooling, plugins, or mindset)
+- A personal knowledge base that doesn’t suck
+- Better habits, maybe. Eventually. Possibly.
+
+## Side Quest
+- Reading CS books I'll never finish
+- Making Open Source that’s actually useful
+---
+
+**Come for the code, stay for the chaos.**
