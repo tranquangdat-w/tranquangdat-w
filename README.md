@@ -6,7 +6,7 @@ Fun Facts
 
 - I write most of my code live, sleep-deprived, and heavily caffeinated
 - Neovim > any IDE, fight me  
-- Arch Linux user. Yes, I use i3. Yes, I rice it. No, I’m not switching.  
+- Arch Linux user. btw
 - Most of my repos are just experiments… until they’re not.  
 
 ## Currently Building
