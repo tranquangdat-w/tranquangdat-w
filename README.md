@@ -17,7 +17,6 @@ Fun Facts
 
 ## Side Quest
 - Reading CS books I'll never finish
-- Making Open Source that’s actually useful
 ---
 
 **Come for the code, stay for the chaos.**
